@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/poketimes25/static/css/main.edbb531f.chunk.css",
+    "main.js": "/poketimes25/static/js/main.5e1f65d7.chunk.js",
+    "main.js.map": "/poketimes25/static/js/main.5e1f65d7.chunk.js.map",
+    "runtime~main.js": "/poketimes25/static/js/runtime~main.9b397d66.js",
+    "runtime~main.js.map": "/poketimes25/static/js/runtime~main.9b397d66.js.map",
+    "static/js/2.d14b1ea2.chunk.js": "/poketimes25/static/js/2.d14b1ea2.chunk.js",
+    "static/js/2.d14b1ea2.chunk.js.map": "/poketimes25/static/js/2.d14b1ea2.chunk.js.map",
+    "index.html": "/poketimes25/index.html",
+    "precache-manifest.1714c3a151ca006d301c53973792035e.js": "/poketimes25/precache-manifest.1714c3a151ca006d301c53973792035e.js",
+    "service-worker.js": "/poketimes25/service-worker.js",
+    "static/css/main.edbb531f.chunk.css.map": "/poketimes25/static/css/main.edbb531f.chunk.css.map"
+  }
+}
